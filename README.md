@@ -25,7 +25,7 @@
 - Region Proposal Network(RPN)을 활용한 Faster R-CNN 모델 구현
 
 ### 🔹 LAB4: Semantic Segmentation
-- **논문**: [Fully Convolutional Networks (FCN)](https://arxiv.org/abs/1411.4038)
+- **논문**: [Fully Convolutional Networks (FCN)](https://arxiv.org/abs/1411.4038), [Learning Deconvolution Network for Semantic Segmentation](https://arxiv.org/abs/1505.04366)
 - 이미지 픽셀 단위 분류를 위한 FCN 모델 구현
 
 ### 🔹 LAB5: Vision Transformer (ViT)
