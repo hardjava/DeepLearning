@@ -37,6 +37,7 @@
 - CNN 모델의 예측 결과에 대한 시각적 설명 제공을 위한 Grad-CAM 구현
 
 ### 🔹 LAB8: Connecting Language & Vision
+- **논문**: [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020), [Linearly Mapping from Image to Text Space](https://arxiv.org/abs/2209.15162)
 - 이미지와 자연어 정보를 결합하는 모델 연구 및 실습
 - CLIP, DALL-E 등의 모델 실험 가능
 
